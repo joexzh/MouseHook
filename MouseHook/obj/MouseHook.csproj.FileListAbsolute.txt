@@ -1,0 +1,5 @@
+D:\projects\MouseHook\MouseHook\obj\Debug\ResolveAssemblyReference.cache
+D:\projects\MouseHook\MouseHook\bin\Debug\MouseHook.dll
+D:\projects\MouseHook\MouseHook\bin\Debug\MouseHook.pdb
+D:\projects\MouseHook\MouseHook\obj\Debug\MouseHook.dll
+D:\projects\MouseHook\MouseHook\obj\Debug\MouseHook.pdb

@@ -1,0 +1,5 @@
+E:\github\MouseHook\MouseHook\bin\Debug\MouseHook.dll
+E:\github\MouseHook\MouseHook\bin\Debug\MouseHook.pdb
+E:\github\MouseHook\MouseHook\obj\Debug\MouseHook.csprojResolveAssemblyReference.cache
+E:\github\MouseHook\MouseHook\obj\Debug\MouseHook.dll
+E:\github\MouseHook\MouseHook\obj\Debug\MouseHook.pdb

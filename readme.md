@@ -1,0 +1,1 @@
+Get RGB color where mouse pointed

@@ -1,0 +1,10 @@
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.exe
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.pdb
+E:\github\MouseHook\MouseCoo\bin\Debug\MouseCoo.exe
+E:\github\MouseHook\MouseCoo\bin\Debug\MouseCoo.pdb
+E:\github\MouseHook\MouseCoo\bin\Debug\MouseHook.dll
+E:\github\MouseHook\MouseCoo\bin\Debug\MouseHook.pdb
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.csprojResolveAssemblyReference.cache
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.Form1.resources
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.Properties.Resources.resources
+E:\github\MouseHook\MouseCoo\obj\Debug\MouseCoo.csproj.GenerateResource.Cache
